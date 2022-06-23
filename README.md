@@ -1,3 +1,3 @@
 # SQL-
-Portfolio Project
+Portfolio Project - 
 This project focuses on Data Cleaning skills in SQL
